@@ -1,0 +1,26 @@
+Laboratorios:
+Laboratorio object (5)
+Laboratorio object (6)
+Laboratorio object (7)
+
+Directores Generales:
+DirectorGeneral object (2)
+DirectorGeneral object (3)
+DirectorGeneral object (4)
+
+Productos:
+Producto object (1)
+Producto object (2)
+Producto object (3)
+
+Laboratorio del Producto 1: Laboratorio object (5)
+
+Productos ordenados por nombre:
+Nombre: Producto 1, Laboratorio: Laboratorio 1
+Nombre: Producto 2, Laboratorio: Laboratorio 2
+Nombre: Producto 3, Laboratorio: Laboratorio 3
+
+Laboratorios de todos los productos:
+Laboratorio 3
+Laboratorio 2
+Laboratorio 1
